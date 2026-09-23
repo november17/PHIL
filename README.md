@@ -1,13 +1,14 @@
 # P.H.I.L.
-Private Home Intelligence Link
+* Private Home Intelligence Link
 ---
-## A local AI assistant with a keyboard, a curiosity problem, and absolutely no cloud required.
+### A local AI assistant with a keyboard, a curiosity problem, and absolutely no cloud required.
 ---
-## Private by design. 
+### Private by design. 
 ---
-## Powered by **Ollama**.
+### Powered by 
+* Ollama
 ---
-## Built to 
+### Built to 
 * Chat 
 * Learn
 * Help
